@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anushahnadir0
+- 👋 Hi, I’m Anushah
 - 👀 I’m interested in making the world a better place
 - 🌱 I’m currently learning React
 - 📫 Reach me at anushah.nadir.0@gmail.com
